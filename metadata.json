@@ -1,0 +1,8 @@
+{
+  "name": "Farm2Market",
+  "description": "A modern agri-tech platform connecting farmers directly to buyers with zero middlemen, featuring AI-powered price suggestions, quality checks, and demand prediction.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
